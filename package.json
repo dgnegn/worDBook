@@ -29,7 +29,6 @@
             "not dead",
             "not op_mini all"
         ],
-        "homepage": "https://dgnegn.github.io",
         "development": [
             "last 1 chrome version",
             "last 1 firefox version",
