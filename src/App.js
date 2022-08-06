@@ -16,7 +16,7 @@ const App = () => {
           <Route exact path='/' element={<Home/>} /> 
           <Route path='/privacy' element={<Privacy/>} /> 
           <Route path='/contact' element={<Contact/>} />
-          <Route path='/app-ads' element={<AppAds/>} /> 
+          <Route path='/app-ads.txt' element={<AppAds/>} /> 
           <Route path='*' element={<PageNotFound/>} /> 
         </Routes>
       </BrowserRouter>
